@@ -1,0 +1,18 @@
+.h{
+    color: blue;
+    font-size: larger;
+}
+ol{
+    font-style: oblique;
+    font-family: 'Courier New', Courier, monospace;
+}
+#image{
+    height: 70px;
+    width: auto;
+}
+/*margin and padding in html */
+
+*{
+    margin: 5px;
+    padding: 8px;
+}
